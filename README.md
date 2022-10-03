@@ -1,6 +1,6 @@
 # Tela-Swipe
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.gif)
 
 > Pequena Tela de Login
 
